@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
+title: "About"
+author_profile: I am a Research Scholar at IIT Bombay
 redirect_from: 
   - /about/
   - /about.html
