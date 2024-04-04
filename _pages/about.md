@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Research Scholar at IIT Bombay.
 
 
 
